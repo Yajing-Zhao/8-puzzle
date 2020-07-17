@@ -1,3 +1,6 @@
 
 # 8-puzzle
-I implemented the 8 puzzle game using React. Key techniques include functional-based components and passing value between them. React hooks are used to manage states. Fisher–Yates algorithm is implemented to randomly shuffle the puzzle tiles with equal probability.  Future extension: Apply the A* algorithm to find the optimal solution automatically. Deploy the code to cloud service like AWS or Heroku.
+I implemented the 8 puzzle game using React. Key techniques include functional-based components and passing value between them. React hooks are used to manage states. Fisher–Yates algorithm is implemented to randomly shuffle the puzzle tiles with equal probability.  Future extension: Apply the A* algorithm to find the optimal solution automatically. 
+
+[codesandbox.io](https://codesandbox.io/s/silent-tree-ehw4i)
+
